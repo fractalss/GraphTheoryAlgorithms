@@ -4,4 +4,4 @@
 
 * Point: Default constructor and initializing syntax. Conversion Constructors. Copy Constructor. List and dynamic memory allocation. Deep Copy.
 
-*Prim’s and Kruskal’s algorithms. Use of basic Container Classes. Tripod-Container, Iterator, Algorithm.
+* Prim’s and Kruskal’s algorithms. Use of basic Container Classes. Tripod-Container, Iterator, Algorithm.
